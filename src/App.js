@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          For Kiran
+          For my love
         </a>
       </header>
     </div>
