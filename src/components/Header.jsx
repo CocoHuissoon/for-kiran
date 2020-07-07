@@ -5,7 +5,7 @@ import React from "react";
 const Header = () => {
 
     return (
-        <Navbar bg="dark" variant="dark">
+        <Navbar bg="dark" variant="dark" sticky="top">
             <Navbar.Brand >Made with love</Navbar.Brand>
             <Nav className="mr-auto">
                 <Nav.Link href="#loveMessage">Love Message</Nav.Link>
