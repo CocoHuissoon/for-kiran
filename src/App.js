@@ -8,7 +8,7 @@ function App() {
 
 
     function changeMessage() {
-        setMessage("❤️Yes I really really do ❤");
+        setMessage("❤️ Yes I really really do ❤");
     }
 
     return (
@@ -18,7 +18,7 @@ function App() {
                 <h1>{message}</h1>
 
                 <Button
-                    hidden={message === "❤️Yes I really really do ❤"}
+                    hidden={message === "❤️ Yes I really really do ❤"}
                     variant="success"
                     size={"lg"}
                     onClick={() => {
